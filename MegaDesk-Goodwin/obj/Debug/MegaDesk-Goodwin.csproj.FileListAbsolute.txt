@@ -1,0 +1,13 @@
+C:\Users\Ray\OneDrive\BYU-I\2019\fall 2019\CIT 365\MegaDesk\MegaDesk-Goodwin\MegaDesk-Goodwin\obj\Debug\MegaDesk-Goodwin.csprojAssemblyReference.cache
+C:\Users\Ray\OneDrive\BYU-I\2019\fall 2019\CIT 365\MegaDesk\MegaDesk-Goodwin\MegaDesk-Goodwin\obj\Debug\MegaDesk_Goodwin.MainMenu.resources
+C:\Users\Ray\OneDrive\BYU-I\2019\fall 2019\CIT 365\MegaDesk\MegaDesk-Goodwin\MegaDesk-Goodwin\obj\Debug\MegaDesk_Goodwin.Properties.Resources.resources
+C:\Users\Ray\OneDrive\BYU-I\2019\fall 2019\CIT 365\MegaDesk\MegaDesk-Goodwin\MegaDesk-Goodwin\obj\Debug\MegaDesk-Goodwin.csproj.GenerateResource.cache
+C:\Users\Ray\OneDrive\BYU-I\2019\fall 2019\CIT 365\MegaDesk\MegaDesk-Goodwin\MegaDesk-Goodwin\obj\Debug\MegaDesk-Goodwin.csproj.CoreCompileInputs.cache
+C:\Users\Ray\OneDrive\BYU-I\2019\fall 2019\CIT 365\MegaDesk\MegaDesk-Goodwin\MegaDesk-Goodwin\bin\Debug\MegaDesk-Goodwin.exe.config
+C:\Users\Ray\OneDrive\BYU-I\2019\fall 2019\CIT 365\MegaDesk\MegaDesk-Goodwin\MegaDesk-Goodwin\bin\Debug\MegaDesk-Goodwin.exe
+C:\Users\Ray\OneDrive\BYU-I\2019\fall 2019\CIT 365\MegaDesk\MegaDesk-Goodwin\MegaDesk-Goodwin\bin\Debug\MegaDesk-Goodwin.pdb
+C:\Users\Ray\OneDrive\BYU-I\2019\fall 2019\CIT 365\MegaDesk\MegaDesk-Goodwin\MegaDesk-Goodwin\obj\Debug\MegaDesk_Goodwin.AddQuote.resources
+C:\Users\Ray\OneDrive\BYU-I\2019\fall 2019\CIT 365\MegaDesk\MegaDesk-Goodwin\MegaDesk-Goodwin\obj\Debug\MegaDesk-Goodwin.exe
+C:\Users\Ray\OneDrive\BYU-I\2019\fall 2019\CIT 365\MegaDesk\MegaDesk-Goodwin\MegaDesk-Goodwin\obj\Debug\MegaDesk-Goodwin.pdb
+C:\Users\Ray\OneDrive\BYU-I\2019\fall 2019\CIT 365\MegaDesk\MegaDesk-Goodwin\MegaDesk-Goodwin\obj\Debug\MegaDesk_Goodwin.ViewQuotes.resources
+C:\Users\Ray\OneDrive\BYU-I\2019\fall 2019\CIT 365\MegaDesk\MegaDesk-Goodwin\MegaDesk-Goodwin\obj\Debug\MegaDesk_Goodwin.SearchQuotes.resources
